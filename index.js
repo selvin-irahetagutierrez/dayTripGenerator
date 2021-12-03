@@ -86,10 +86,10 @@ function userConfirmation(){
     let userSatisfaction = prompt("Are you satisfied with your trip details? Enter Yes or No.");
     switch(userSatisfaction){
         case "Yes":
-            alert("Thank you for traveling with devCodeCamp!");
+            alert("Thank you for traveling with Selvin's Day Trip Generator!");
             break;
         case "yes":
-            alert("Thank you for traveling with devCodeCamp!");
+            alert("Thank you for traveling with Selvin's Day Trip Generator!");
             break;
         case "No":
             userAnswer();
